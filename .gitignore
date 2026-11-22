@@ -4,7 +4,7 @@
 # Python
 *.pyc
 .spec
-
+.idea
 
 # Exclude wandb folder
 wandb/
